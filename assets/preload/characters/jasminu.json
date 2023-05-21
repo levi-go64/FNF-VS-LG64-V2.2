@@ -88,12 +88,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky_kids_assets",
+	"image": "characters/jasminu",
 	"position": [
 		0,
 		200
 	],
-	"healthicon": "spooky",
+	"healthicon": "jasminu",
 	"flip_x": false,
 	"healthbar_colors": [
 		0,
