@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"gg",
+			"jasminu",
+			[
+				86,
+				113,
+				253
+			]
+		],
+		[
+			"smug",
+			"jasminu",
+			[
+				86,
+				113,
+				253
+			]
+		],
+		[
+			"peck-neck",
+			"jasminu",
+			[
+				86,
+				113,
+				253
+			]
+		],
+		[
+			"xd",
+			"jasminu",
+			[
+				86,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "jasminu",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "VS JASMINU",
+	"weekName": "JASMINU",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "lgsixtyfour",
+	"startUnlocked": true
+}

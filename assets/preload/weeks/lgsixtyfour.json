@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"clear-wave",
+			"levi",
+			[
+				255,
+				153,
+				193
+			]
+		],
+		[
+			"memories-trip",
+			"levi",
+			[
+				255,
+				153,
+				193
+			]
+		],
+		[
+			"speedrun",
+			"levi",
+			[
+				255,
+				153,
+				193
+			]
+		],
+		[
+			"santuy",
+			"levi",
+			[
+				255,
+				153,
+				193
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lgsixtyfour",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "lg64",
+	"weekName": "LG64",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"lag",
+			"jasminu",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"swagness",
+			"jasminu",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "skirts",
+	"difficulties": "Jasminutrainerone, Jasminutrainertwo",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "other",
+	"weekName": "other",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "lgsixtyfour",
+	"startUnlocked": true
+}

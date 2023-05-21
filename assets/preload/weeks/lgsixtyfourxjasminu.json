@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"dimana-kamu",
+			"nothing",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lovely",
+	"difficulties": "Jasminutrainerone, Jasminutrainertwo, Jasminu, Levi",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "LG64 X JASMINU",
+	"weekName": "LG64 X JASMINU",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "jasminu",
+	"startUnlocked": true
+}

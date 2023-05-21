@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"gg-old",
+			"jasminu",
+			[
+				86,
+				73,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "jasminu",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "jasminu old",
+	"weekName": "jasminuold",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "jasminu",
+	"startUnlocked": false
+}

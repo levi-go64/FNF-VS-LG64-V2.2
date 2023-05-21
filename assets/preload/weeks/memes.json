@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"mbakbro",
+			"mbakbro",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"personal",
+			"cursedlevi",
+			[
+				255,
+				0,
+				13
+			]
+		],
+		[
+			"pake-nanya",
+			"cursedlevi",
+			[
+				255,
+				0,
+				13
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "memes",
+	"difficulties": "Easy, Normal, Hard, Spicyness",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "LG64 JOKE SONG",
+	"weekName": "joke",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "lgsixtyfour",
+	"startUnlocked": false
+}
