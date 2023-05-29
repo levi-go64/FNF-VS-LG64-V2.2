@@ -81,6 +81,11 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
+			['VS LG64 TEAM'],
+			['LG64', 'LG64', 'Director', 'https://youtube.com/@levi_xd2', 'FFFFFF'],
+			['FH64', 'FH64', 'Composed, Animator Sprite', 'https://youtube.com/@FH64', 'FFFFFF'],
+			['RAIDEN ALFARES', 'RD', 'Coder, Gamebanana Release', 'https://youtube.com/@levi_xd2', 'FFFFFF'],
+			['Nopaleditz_24', 'Nopal64', 'Composed, Logo Art', 'https://youtube.com/@Nopaleditz_24', 'FFFFFF'],
 			['Android Port'],
 			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@BoyfriendFNF', 'FFFFFF'],
 			[''],
