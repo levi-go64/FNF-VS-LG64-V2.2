@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"where-my-eyes",
+			"iza",
+			[
+				246,
+				140,
+				0
+			]
+		],
+		[
+			"taimupingas",
+			"iza",
+			[
+				246,
+				140,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "eyegone",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "vs eyegone reboot",
+	"weekName": "eyegone",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "lgsixtyfour",
+	"startUnlocked": true
+}
