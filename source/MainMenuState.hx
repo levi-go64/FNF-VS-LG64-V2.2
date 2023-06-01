@@ -221,11 +221,11 @@ class MainMenuState extends MusicBeatState
          
          char1.dance();
          char1.updateHitbox()
-         char1.visible = true
+         char1.visible = true;
         {
         else
         {
-        char1.visible =false
+        char1.visible =false;
         }
         
         if(optionShit[curSelected] == 'freeplay')
@@ -235,11 +235,11 @@ class MainMenuState extends MusicBeatState
          
          char2.dance();
          char2.updateHitbox()
-         char2.visible = true
+         char2.visible = true;
         {
         else
         {
-        char2.visible =false
+        char2.visible =false;
         }
         
        if(optionShit[curSelected] == 'credits')
@@ -249,11 +249,11 @@ class MainMenuState extends MusicBeatState
          
          char3.dance();
          char3.updateHitbox()
-         char3.visible = true
+         char3.visible = true;
         {
         else
         {
-        char3.visible =false
+        char3.visible =false;
         }
         
        if(optionShit[curSelected] == 'options')
@@ -263,11 +263,11 @@ class MainMenuState extends MusicBeatState
          
          char4.dance();
          char4.updateHitbox()
-         char4.visible = true
+         char4.visible = true;
         {
         else
         {
-        char4.visible =false
+        char4.visible =false;
         }
         
 		if (!selectedSomethin)
