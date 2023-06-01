@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"memories-trip-remix",
+			"levi",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"peck-neck-remix",
+			"jasminuremix",
+			[
+				155,
+				0,
+				255
+			]
+		],
+		[
+			"peck-neck-remix-classic",
+			"jasminuremix",
+			[
+				155,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "remix",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "remix",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "jasminu",
+	"startUnlocked": true
+}
