@@ -222,7 +222,7 @@ class MainMenuState extends MusicBeatState
          char1.dance();
          char1.updateHitbox();
          char1.visible = true;
-        {
+        }
         else
         {
         char1.visible = false;
@@ -236,7 +236,7 @@ class MainMenuState extends MusicBeatState
          char2.dance();
          char2.updateHitbox();
          char2.visible = true;
-        {
+        }
         else
         {
         char2.visible = false;
@@ -250,7 +250,7 @@ class MainMenuState extends MusicBeatState
          char3.dance();
          char3.updateHitbox();
          char3.visible = true;
-        {
+        }
         else
         {
         char3.visible = false;
@@ -264,7 +264,7 @@ class MainMenuState extends MusicBeatState
          char4.dance();
          char4.updateHitbox();
          char4.visible = true;
-        {
+        }
         else
         {
         char4.visible = false;
