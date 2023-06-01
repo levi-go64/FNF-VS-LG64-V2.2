@@ -225,7 +225,7 @@ class MainMenuState extends MusicBeatState
         {
         else
         {
-        char1.visible =false;
+        char1.visible = false;
         }
         
         if(optionShit[curSelected] == 'freeplay')
@@ -239,7 +239,7 @@ class MainMenuState extends MusicBeatState
         {
         else
         {
-        char2.visible =false;
+        char2.visible = false;
         }
         
        if(optionShit[curSelected] == 'credits')
@@ -253,7 +253,7 @@ class MainMenuState extends MusicBeatState
         {
         else
         {
-        char3.visible =false;
+        char3.visible = false;
         }
         
        if(optionShit[curSelected] == 'options')
@@ -267,7 +267,7 @@ class MainMenuState extends MusicBeatState
         {
         else
         {
-        char4.visible =false;
+        char4.visible = false;
         }
         
 		if (!selectedSomethin)
