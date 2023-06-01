@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:d6cf78a4435abab4d89e29b8740b94be:6e2b743a740fab085660a9045ef72518:19fe1c91e5efa8612b897d11e7ae6aca$ -->
+<TextureAtlas imagePath="BF_Death.png" width="8146" height="5783">
+    <SubTexture name="BF_Death_End/BF_Deathv20083" x="1" y="2367" rotated="true" width="606" height="753" frameX="-126" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20084" x="1" y="3122" rotated="true" width="606" height="753" frameX="-126" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20085" x="1" y="3877" rotated="true" width="606" height="753" frameX="-126" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20086" x="1" y="4632" rotated="true" width="606" height="752" frameX="-127" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20087" x="609" y="2367" rotated="true" width="606" height="752" frameX="-127" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20088" x="609" y="3121" rotated="true" width="606" height="752" frameX="-127" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20089" x="609" y="3875" rotated="true" width="606" height="750" frameX="-128" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20090" x="609" y="4627" rotated="true" width="606" height="748" frameX="-130" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20091" x="611" y="1" rotated="true" width="606" height="747" frameX="-131" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20092" x="1219" y="1" rotated="true" width="606" height="742" frameX="-134" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20093" x="1304" y="745" rotated="true" width="604" height="732" frameX="-139" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20094" x="5486" y="1831" width="720" height="602" frameX="-145" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20095" x="5486" y="2435" width="700" height="598" frameX="-155" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20096" x="6929" y="1831" width="670" height="592" frameX="-170" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20097" x="1870" y="5162" rotated="true" width="582" height="620" frameX="-198" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20098" x="5472" y="4037" width="608" height="564" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20099" x="4877" y="4242" rotated="true" width="526" height="608" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20100" x="6710" y="4341" width="608" height="526" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20101" x="6082" y="4452" width="608" height="526" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20102" x="5405" y="4603" width="608" height="526" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20103" x="5228" y="5131" rotated="true" width="526" height="608" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20104" x="5756" y="5131" rotated="true" width="526" height="608" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20105" x="6284" y="4980" rotated="true" width="526" height="608" frameX="-210" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20106" x="1" y="5386" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20107" x="1" y="5571" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20108" x="138" y="5386" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20109" x="138" y="5571" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20110" x="275" y="5386" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20111" x="275" y="5571" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20112" x="412" y="5386" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20113" x="412" y="5571" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20114" x="549" y="5386" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20115" x="549" y="5571" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20116" x="4881" y="1896" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20117" x="5018" y="1896" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20118" x="5155" y="1896" rotated="true" width="135" height="183" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20119" x="5292" y="1896" width="183" height="135" frameX="-438" frameY="-325" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_End/BF_Deathv20120" x="1" y="5756" width="3" height="3" frameX="0" frameY="0" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20054" x="1827" y="1" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20055" x="1217" y="2973" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20056" x="1217" y="3705" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20057" x="1217" y="4437" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20058" x="1827" y="2234" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20059" x="1831" y="1479" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20060" x="1910" y="733" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20061" x="2437" y="1" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20062" x="1827" y="2966" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20063" x="1827" y="3698" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20064" x="1827" y="4430" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20065" x="2437" y="2211" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20066" x="2441" y="1465" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20067" x="2520" y="733" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20068" x="1827" y="4430" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20069" x="2437" y="2211" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20070" x="3047" y="1" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20071" x="2437" y="2943" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20072" x="2437" y="3675" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20073" x="2437" y="4407" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20074" x="3047" y="1" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20075" x="3047" y="2197" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20076" x="3051" y="1465" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20077" x="3130" y="733" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20078" x="3657" y="1" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20079" x="3047" y="2929" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20080" x="3047" y="3661" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20081" x="3047" y="4393" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Loop/BF_Deathv20082" x="3657" y="2197" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20001" x="7683" y="1" width="462" height="614" frameX="-311" frameY="-79" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20002" x="6805" y="3398" rotated="true" width="614" height="462" frameX="-311" frameY="-79" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20003" x="7601" y="1860" width="530" height="613" frameX="-327" frameY="-80" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20004" x="6101" y="3443" rotated="true" width="613" height="530" frameX="-327" frameY="-80" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20005" x="2960" y="5139" rotated="true" width="591" height="635" frameX="-324" frameY="-102" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20006" x="4637" y="5125" width="589" height="644" frameX="-311" frameY="-49" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20007" x="4020" y="5125" width="615" height="647" frameX="-310" frameY="-46" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20008" x="2454" y="5139" width="504" height="640" frameX="-311" frameY="-53" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20009" x="6929" y="2425" rotated="true" width="632" height="492" frameX="-312" frameY="-60" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20010" x="7655" y="1231" width="484" height="627" frameX="-312" frameY="-66" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20011" x="6188" y="2441" rotated="true" width="621" height="479" frameX="-312" frameY="-72" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20012" x="6811" y="2919" rotated="true" width="617" height="477" frameX="-312" frameY="-75" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20013" x="7430" y="3302" rotated="true" width="614" height="475" frameX="-312" frameY="-78" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20014" x="5481" y="3529" rotated="true" width="613" height="506" frameX="-313" frameY="-80" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20015" x="4960" y="733" width="524" height="611" frameX="-275" frameY="-81" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20016" x="6096" y="3975" rotated="true" width="612" height="475" frameX="-312" frameY="-81" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20017" x="7672" y="617" width="473" height="612" frameX="-315" frameY="-81" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20018" x="6716" y="3862" rotated="true" width="612" height="477" frameX="-312" frameY="-81" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20019" x="7421" y="3779" rotated="true" width="612" height="568" frameX="-314" frameY="-80" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20020" x="1266" y="5169" width="602" height="613" frameX="-275" frameY="-80" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20021" x="5485" y="3035" rotated="true" width="614" height="492" frameX="-314" frameY="-79" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20022" x="6188" y="2922" rotated="true" width="615" height="519" frameX="-314" frameY="-78" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20023" x="611" y="750" rotated="true" width="691" height="745" frameX="-208" frameY="0" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20024" x="3553" y="5125" rotated="true" width="465" height="648" frameX="-184" frameY="-256" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20025" x="611" y="1497" width="608" height="737" frameX="-210" frameY="-114" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20026" x="1" y="1" width="608" height="821" frameX="-210" frameY="-30" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20027" x="1" y="824" width="608" height="781" frameX="-210" frameY="-70" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20028" x="1" y="1607" width="608" height="758" frameX="-210" frameY="-93" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20029" x="1217" y="2236" width="608" height="735" frameX="-210" frameY="-116" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20030" x="1221" y="1497" width="608" height="735" frameX="-210" frameY="-116" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20031" x="6946" y="611" rotated="true" width="724" height="608" frameX="-210" frameY="-127" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20032" x="6211" y="1221" rotated="true" width="720" height="608" frameX="-210" frameY="-131" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20033" x="6208" y="1831" rotated="true" width="719" height="608" frameX="-210" frameY="-132" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20034" x="6933" y="1221" rotated="true" width="720" height="608" frameX="-210" frameY="-131" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20035" x="5486" y="1221" rotated="true" width="723" height="608" frameX="-210" frameY="-128" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20036" x="6218" y="611" rotated="true" width="726" height="608" frameX="-210" frameY="-125" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20037" x="5487" y="611" rotated="true" width="729" height="608" frameX="-210" frameY="-122" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20038" x="3661" y="1465" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20039" x="3740" y="733" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20040" x="4267" y="1" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20041" x="3657" y="2929" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20042" x="3657" y="3661" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20043" x="3657" y="4393" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20044" x="4267" y="2197" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20045" x="4271" y="1465" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20046" x="4350" y="733" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20047" x="4877" y="1" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20048" x="4267" y="2929" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20049" x="4267" y="3661" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20050" x="4267" y="4393" width="608" height="730" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20051" x="5487" y="1" rotated="true" width="730" height="608" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20052" x="6219" y="1" rotated="true" width="730" height="608" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Death_Start/BF_Deathv20053" x="6951" y="1" rotated="true" width="730" height="608" frameX="-210" frameY="-121" frameWidth="959" frameHeight="931"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0001" x="4881" y="1465" rotated="true" width="603" height="429" frameX="-122" frameY="-135" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0002" x="7563" y="2475" rotated="true" width="573" height="416" frameX="-129" frameY="-165" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0003" x="7563" y="2893" rotated="true" width="569" height="407" frameX="-133" frameY="-169" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0004" x="686" y="5377" rotated="true" width="578" height="405" frameX="-135" frameY="-160" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0005" x="4877" y="3834" rotated="true" width="593" height="406" frameX="-136" frameY="-145" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0006" x="4877" y="3425" rotated="true" width="602" height="407" frameX="-136" frameY="-136" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0007" x="4877" y="3015" rotated="true" width="606" height="408" frameX="-136" frameY="-132" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0008" x="7320" y="4349" rotated="true" width="608" height="409" frameX="-135" frameY="-130" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0009" x="7320" y="4760" rotated="true" width="608" height="409" frameX="-135" frameY="-130" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0010" x="6812" y="5171" width="409" height="608" frameX="-135" frameY="-130" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0011" x="7223" y="5171" width="408" height="608" frameX="-135" frameY="-130" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0012" x="7633" y="5171" width="407" height="608" frameX="-135" frameY="-130" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0013" x="4877" y="2197" rotated="true" width="607" height="407" frameX="-135" frameY="-131" frameWidth="594" frameHeight="753"/>
+    <SubTexture name="BF_Idle/BF_Idle0001.png0014" x="4877" y="2606" rotated="true" width="607" height="407" frameX="-135" frameY="-131" frameWidth="594" frameHeight="753"/>
+</TextureAtlas>
