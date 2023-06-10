@@ -1,0 +1,254 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				-17
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "idle",
+			"indices": [],
+			"name": "greeg idle"
+		},
+		{
+			"offsets": [
+				162,
+				-2
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "greeg left"
+		},
+		{
+			"offsets": [
+				46,
+				-100
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "greeg down"
+		},
+		{
+			"offsets": [
+				22,
+				160
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "singUP",
+			"indices": [],
+			"name": "greeg up"
+		},
+		{
+			"offsets": [
+				-35,
+				7
+			],
+			"loop": false,
+			"fps": 64,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "greeg right"
+		},
+		{
+			"offsets": [
+				7,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Rev NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Rev NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-36,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Rev NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Rev NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-26,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Rev v2 HEY!!"
+		},
+		{
+			"offsets": [
+				15,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Rev v2 hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Rev v2 Idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Rev v2 dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Rev v2 Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Rev v2 Dead confirm"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Rev v2 attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "Rev v2 pre attack"
+		},
+		{
+			"offsets": [
+				-90,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dodge down",
+			"indices": [],
+			"name": "Rev v2 NOTE DODGEDOWN"
+		},
+		{
+			"offsets": [
+				-20,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dodge left",
+			"indices": [],
+			"name": "Rev v2 NOTE DODGELEFT"
+		},
+		{
+			"offsets": [
+				-67,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dodge up",
+			"indices": [],
+			"name": "Rev v2 NOTE DODGEUP"
+		},
+		{
+			"offsets": [
+				-47,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dodge right",
+			"indices": [],
+			"name": "Rev v2 NOTE DODGERIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/greeg",
+	"position": [
+		-60,
+		-30
+	],
+	"healthicon": "greeg",
+	"flip_x": true,
+	"healthbar_colors": [
+		191,
+		145,
+		255
+	],
+	"camera_position": [
+		-10,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
