@@ -4,8 +4,17 @@
 			"mbakbro",
 			"mbakbro",
 			[
-				0,
+				226,
+				153,
+				93
+			]
+		],
+		[
+			"ip",
+			"jasminutrainertwo",
+			[
 				255,
+				0,
 				255
 			]
 		],
@@ -13,38 +22,38 @@
 			"personal",
 			"cursedlevi",
 			[
-				255,
 				0,
-				13
+				255,
+				255
 			]
 		],
 		[
 			"pake-nanya",
 			"cursedlevi",
 			[
-				255,
 				0,
-				13
+				255,
+				255
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "memes",
-	"difficulties": "Easy, Normal, Hard, Spicyness",
+	"difficulties": "",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "LG64 JOKE SONG",
-	"weekName": "joke",
+	"storyName": "memes boy",
+	"weekName": "jokememes",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekBefore": "lgsixtyfour",
-	"startUnlocked": false
+	"startUnlocked": true
 }
