@@ -87,6 +87,7 @@ class CreditsState extends MusicBeatState
 			['RAIDEN ALFARES', 'RD', 'Coder, Gamebanana Publisher', 'https://youtube.com/@raidenalfares', 'FFFFFF'],
 			['NopalEditz_24', 'nopal64', 'Composer, Logo Art In v2', 'https://youtube.com/@Nopaleditz_24', 'FFFFFF'],
 			['Animation Zay', 'AZ', 'BG Art', 'https://youtube.com/@animationZay', 'FFFFFF'],
+			['Revan', 'RVN', 'Sprite', 'https://youtube.com/@boybluefrost4492', 'FFFFFF'],
 			['Android Port'],
 			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@BoyfriendFNF', 'FFFFFF'],
 			[''],
