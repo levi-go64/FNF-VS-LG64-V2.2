@@ -142,19 +142,19 @@ class MainMenuState extends MusicBeatState
        char1 =new Character(800, 130, 'bf-holding-gf', true);
        char1.setGraphicSize(Std.int(char1.width = 0.8));
        add(char1);
-       char1.visible = false;
+       char1.visible = true;
 
-        char2 =new Character(800, 130, 'levi', true);
+        char2 =new Character(800, 170, 'levi', true);
        char2.setGraphicSize(Std.int(char2.width = 0.8));
        add(char2);
-       char2.visible = false;
+       char2.visible = true;
 
-         char3 =new Character(800, 170, 'jasminu', true);
+         char3 =new Character(800, 250, 'jasminu', true);
        char3.setGraphicSize(Std.int(char3.width = 0.8));
        add(char3);
        char3.visible = false;
 
-       char4 =new Character(800, 200, 'jasminutrainertwo', true);
+       char4 =new Character(800, 270, 'jasminutrainertwo', true);
        char4.setGraphicSize(Std.int(char4.width = 0.8));
        add(char4);
        char4.visible = false;
