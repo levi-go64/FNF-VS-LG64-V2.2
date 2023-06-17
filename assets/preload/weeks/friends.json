@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"sunshine",
+			"greeg",
+			[
+				146,
+				255,
+				173
+			]
+		],
+		[
+			"magic",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"arrest",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "LG64 AND JASMINU FRIENDS",
+	"weekName": "FRIENDS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
