@@ -273,7 +273,7 @@ class MainMenuState extends MusicBeatState
         
         if(ctrl)
         {
-        FlxG.sound.play(Paths.sound('missnote1')
+        FlxG.sound.play(Paths.sound('missnote1'));
         MusicBeatState.switchState(new secret());
         }
  
