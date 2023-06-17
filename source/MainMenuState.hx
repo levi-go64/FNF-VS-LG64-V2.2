@@ -46,6 +46,7 @@ class MainMenuState extends MusicBeatState
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
+	var ctrl = FlxG.keys.justPressed.CONTROL #if mobile || virtualPad.buttonC.justPressed #end;
    private var char1:Character = null;
    private var char2:Character = null;
   private var char3:Character = null;
@@ -186,7 +187,7 @@ class MainMenuState extends MusicBeatState
 		#end
 		
 		#if mobile
-		addVirtualPad(UP_DOWN, A_B);
+		addVirtualPad(UP_DOWN, A_B_C);
 		#end
 
 		super.create();
@@ -270,6 +271,12 @@ class MainMenuState extends MusicBeatState
         char4.visible = false;
         }
         
+        if(ctrl)
+        {
+        FlxG.sound.play(Paths.sound('missnote1')
+        MusicBeatState.switchState(new secret());
+        }
+ 
 		if (!selectedSomethin)
 		{
 			if (controls.UI_UP_P)
