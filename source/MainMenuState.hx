@@ -46,7 +46,6 @@ class MainMenuState extends MusicBeatState
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
-	var ctrl = FlxG.keys.justPressed.CONTROL #if mobile || virtualPad.buttonC.justPressed #end;
    private var char1:Character = null;
    private var char2:Character = null;
   private var char3:Character = null;
@@ -140,22 +139,22 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-       char1 = new Character(800, 130, 'bf', true);
+       char1 =new Character(800, 130, 'bf-holding-gf', true);
        char1.setGraphicSize(Std.int(char1.width = 0.8));
        add(char1);
-       char1.visible = false;
+       char1.visible = true;
 
-        char2 = new Character(800, 170, 'levi', true);
+        char2 =new Character(800, 170, 'levi', true);
        char2.setGraphicSize(Std.int(char2.width = 0.8));
        add(char2);
-       char2.visible = false;
+       char2.visible = true;
 
-         char3 = new Character(800, 250, 'jasminu', true);
+         char3 =new Character(800, 250, 'jasminu', true);
        char3.setGraphicSize(Std.int(char3.width = 0.8));
        add(char3);
        char3.visible = false;
 
-       char4 = new Character(800, 270, 'jasminutrainertwo', true);
+       char4 =new Character(800, 270, 'jasminutrainertwo', true);
        char4.setGraphicSize(Std.int(char4.width = 0.8));
        add(char4);
        char4.visible = false;
@@ -187,7 +186,7 @@ class MainMenuState extends MusicBeatState
 		#end
 		
 		#if mobile
-		addVirtualPad(UP_DOWN, A_B_C);
+		addVirtualPad(UP_DOWN, A_B);
 		#end
 
 		super.create();
@@ -271,12 +270,6 @@ class MainMenuState extends MusicBeatState
         char4.visible = false;
         }
         
-        if(ctrl)
-        {
-        FlxG.sound.play(Paths.sound('missnote1'));
-        MusicBeatState.switchState(new secret));
-        }
- 
 		if (!selectedSomethin)
 		{
 			if (controls.UI_UP_P)
