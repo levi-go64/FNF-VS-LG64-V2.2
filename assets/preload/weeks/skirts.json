@@ -22,7 +22,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "skirts",
-	"difficulties": "Jasminutrainerone, Jasminutrainertwo",
+	"difficulties": "Jasminutrainerone, Jasminutrainertwo, Jasminuhijab",
 	"weekCharacters": [
 		"",
 		"",
@@ -35,7 +35,7 @@
 		113,
 		253
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekBefore": "lgsixtyfour",
 	"startUnlocked": true
 }
