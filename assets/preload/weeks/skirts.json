@@ -4,18 +4,27 @@
 			"lag",
 			"jasminu",
 			[
-				146,
-				113,
-				253
+				0,
+				255,
+				255
 			]
 		],
 		[
 			"swagness",
 			"jasminu",
 			[
-				146,
-				113,
-				253
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"paz",
+			"jasminu",
+			[
+				0,
+				255,
+				255
 			]
 		]
 	],
@@ -28,14 +37,14 @@
 		"",
 		""
 	],
-	"storyName": "other",
-	"weekName": "other",
+	"storyName": "jasminuskirts",
+	"weekName": "jasminuskirts",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
-	"weekBefore": "lgsixtyfour",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
