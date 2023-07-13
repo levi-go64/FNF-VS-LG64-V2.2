@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"dosglitchmix",
+			"jasminuglitch",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "glitchy",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "3839384838484488484848388",
+	"weekName": "24434",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "dosglitch",
+	"startUnlocked": true
+}
