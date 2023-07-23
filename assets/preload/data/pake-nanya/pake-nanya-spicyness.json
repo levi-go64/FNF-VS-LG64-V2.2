@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bf-thuglifeglasses",
 		"events": [
 			[
 				0,
@@ -33,26 +33,6 @@
 				]
 			],
 			[
-				416.666666666667,
-				[
-					[
-						"gobf",
-						"",
-						""
-					]
-				]
-			],
-			[
-				500,
-				[
-					[
-						"hard as ass",
-						"",
-						""
-					]
-				]
-			],
-			[
 				733.333333333333,
 				[
 					[
@@ -63,22 +43,52 @@
 				]
 			],
 			[
-				979.166666666667,
+				9333.33333333333,
 				[
 					[
-						"BeatBopNotes",
-						"",
-						""
+						"Change Character",
+						"Dad",
+						"whatdajasminudoing"
 					]
 				]
 			],
 			[
-				10500,
+				9340.27777777778,
 				[
 					[
-						"camera bounce",
-						"",
-						""
+						"Add Camera Zoom",
+						"0.015",
+						"1"
+					]
+				]
+			],
+			[
+				9652.77777777778,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"1"
+					]
+				]
+			],
+			[
+				9979.16666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"1"
+					]
+				]
+			],
+			[
+				10340.2777777778,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"1"
 					]
 				]
 			],
@@ -87,6 +97,26 @@
 				[
 					[
 						"ShowHud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10625,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"cursedlevi"
+					]
+				]
+			],
+			[
+				10655.0925925926,
+				[
+					[
+						"whiteflash",
 						"",
 						""
 					]
@@ -893,6 +923,16 @@
 				]
 			],
 			[
+				32000,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			],
+			[
 				34055.5555555556,
 				[
 					[
@@ -1069,6 +1109,16 @@
 						"Add Camera Zoom",
 						"0.015",
 						"0.03"
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"whiteflash",
+						"",
+						""
 					]
 				]
 			],
@@ -2493,6 +2543,16 @@
 				]
 			],
 			[
+				74663.1944444445,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			],
+			[
 				74666.6666666667,
 				[
 					[
@@ -3293,6 +3353,16 @@
 				]
 			],
 			[
+				96003.4722222222,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			],
+			[
 				98055.5555555555,
 				[
 					[
@@ -3447,6 +3517,16 @@
 				[
 					[
 						"TweenSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117333.333333333,
+				[
+					[
+						"whiteflash",
 						"",
 						""
 					]
@@ -3613,6 +3693,16 @@
 				]
 			],
 			[
+				138666.666666667,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			],
+			[
 				140722.222222222,
 				[
 					[
@@ -3688,6 +3778,31 @@
 					[
 						"TweenSpin",
 						"",
+						""
+					]
+				]
+			],
+			[
+				149333.333333333,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149340.277777778,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					],
+					[
+						"Screen Shake",
+						"999.999, 999.999",
 						""
 					]
 				]
@@ -8953,24 +9068,64 @@
 				"bpm": 180
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 180,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 180,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
 				"gfSection": false,
 				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 180,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 180,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
 			},
 			{
 				"gfSection": false,
