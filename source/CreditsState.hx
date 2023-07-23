@@ -88,6 +88,7 @@ class CreditsState extends MusicBeatState
 			['NopalEditz_24', 'nopal64', 'Composer', 'https://youtube.com/@Nopaleditz_24', 'FFFFFF'],
 			['Animation Zay', 'AZ', 'BG Art', 'https://youtube.com/@animationZay', 'FFFFFF'],
 			['Revan', 'RVN', 'Sprite', 'https://youtube.com/@boybluefrost4492', 'FFFFFF'],
+			['Villain', 'VLN', 'Chromatic or DWP maker', 'https://youtube.com/@Villain-jx2um', 'FFFFFF'],
 			['Android Port'],
 			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@BoyfriendFNF', 'FFFFFF'],
 			[''],
