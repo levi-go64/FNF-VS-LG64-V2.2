@@ -101,17 +101,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/levi",
+	"image": "characters/whatdajasminudoing",
 	"position": [
 		0,
 		300
 	],
-	"healthicon": "levi",
+	"healthicon": "jasminu",
 	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		0,
-		255
+		183,
+		216,
+		85
 	],
 	"camera_position": [
 		0,
