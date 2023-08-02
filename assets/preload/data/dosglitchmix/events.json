@@ -22,26 +22,6 @@
 				]
 			],
 			[
-				225,
-				[
-					[
-						"sing shake",
-						"",
-						""
-					]
-				]
-			],
-			[
-				325,
-				[
-					[
-						"Change Botplay Text",
-						"glitch on",
-						""
-					]
-				]
-			],
-			[
 				17118.75,
 				[
 					[
@@ -63,16 +43,6 @@
 						"Flash Camera",
 						"3",
 						""
-					]
-				]
-			],
-			[
-				40700,
-				[
-					[
-						"Toggle Trail",
-						"1",
-						"1"
 					]
 				]
 			],
@@ -397,6 +367,16 @@
 				]
 			],
 			[
+				50325,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"1.2"
+					]
+				]
+			],
+			[
 				50400,
 				[
 					[
@@ -713,6 +693,16 @@
 						"Add Camera Zoom",
 						"0.050",
 						"0.03"
+					]
+				]
+			],
+			[
+				59925,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"0.5"
 					]
 				]
 			],
@@ -1357,12 +1347,52 @@
 				]
 			],
 			[
+				79200,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"1"
+					]
+				]
+			],
+			[
 				91462.5,
 				[
 					[
 						"",
 						"",
 						""
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"1.4"
+					]
+				]
+			],
+			[
+				97800,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"1.8"
+					]
+				]
+			],
+			[
+				98325,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"0.5"
 					]
 				]
 			],
@@ -2023,6 +2053,16 @@
 						"Cinematics (UnderLap)",
 						"0.3",
 						"90"
+					]
+				]
+			],
+			[
+				117675,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"0.9"
 					]
 				]
 			],
