@@ -1,28 +1,44 @@
-local playerBop = true	
+-- time bar changes colours every note hit cool epic, by HavenMari
+-- both opponent and player
 
-local bopStength = 28
-
-local downToNega = 1
-
-local relocatePosition = 571
-
-function onCreatePost()
-  playerRelocatePos = getPropertyFromGroup('strumLineNotes', direction,'y')
+function onSongStart()
+	setProperty("timeBar.color",getColorFromHex("000fff"))
 end
 
-function directionProcessing(bopStength)
-  return bopStength*downToNega
-end
 
-function onBeatHit()
-	for i=3,0,-1 do
-		opponentRelocatePos = getPropertyFromGroup('strumLineNotes', direction,'y')
-		setPropertyFromGroup('strumLineNotes', i+0,'y',directionProcessing(bopStength)+opponentRelocatePos)
-		noteTweenY('opponentBop'..i, i+0, opponentRelocatePos, 0.15,"circInOut")
+function goodNoteHit(id, noteData, noteType, isSustainNote)
+	if noteData == 0 then
+		setProperty("timeBar.color",getColorFromHex("E200ff"))
 	end
-	
-    for i = 1,4 do
-          setPropertyFromGroup('strumLineNotes', i+3,'y',directionProcessing(bopStength)+playerRelocatePos)
-          noteTweenY('playerBop'..i, i+3,playerRelocatePos, 0.15,"circInOut")
+
+	if noteData == 1 then
+		setProperty("timeBar.color",getColorFromHex("00ddff"))
+	end
+
+	if noteData == 2 then
+		setProperty("timeBar.color",getColorFromHex("06ff00"))
+	end
+
+	if noteData == 3 then
+		setProperty("timeBar.color",getColorFromHex("Ff0004"))
 	end
 end
+
+function opponentNoteHit(id, noteData, noteType, isSustainNote)
+	if noteData == 0 then
+		setProperty("timeBar.color",getColorFromHex("E200ff"))
+	end
+
+	if noteData == 1 then
+		setProperty("timeBar.color",getColorFromHex("00ddff"))
+	end
+
+	if noteData == 2 then
+		setProperty("timeBar.color",getColorFromHex("06ff00"))
+	end
+
+	if noteData == 3 then
+		setProperty("timeBar.color",getColorFromHex("Ff0004"))
+	end
+end
+
