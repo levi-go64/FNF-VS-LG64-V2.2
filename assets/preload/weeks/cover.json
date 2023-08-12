@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"sliced",
+			"jasminuglitch",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cover",
+	"weekName": "Cover",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "jasminu",
+	"startUnlocked": true
+}
