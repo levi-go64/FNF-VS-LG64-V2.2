@@ -1,41 +1,32 @@
 {
 	"songs": [
 		[
-			"sunshine",
-			"greeg",
+			"yoki-senu-fuguai",
+			"leviglitchy",
 			[
-				0,
 				255,
-				0
-			]
-		],
-		[
-			"fire",
-			"dad",
-			[
-				146,
 				113,
-				253
+				0
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "friends",
-	"difficulties": "Normal",
+	"weekBackground": "",
+	"difficulties": "glitchy",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "LG64 FRIENDS",
+	"storyName": "444044",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
-	"weekBefore": "jasminu",
+	"hideStoryMode": true,
+	"weekBefore": "lglitchyfour",
 	"startUnlocked": true
 }
