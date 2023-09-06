@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"nchaa",
+			"arale",
+			[
+				126,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Hey look it's norimaki arale, remeber him?",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "jasminu",
+	"startUnlocked": true
+}
