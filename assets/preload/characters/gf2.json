@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-8
+			],
+			"loop": true,
+			"anim": "hairBlow",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair blowing",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair Landing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				2,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note"
+		},
+		{
+			"offsets": [
+				-19,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note"
+		},
+		{
+			"offsets": [
+				-19,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note"
+		},
+		{
+			"offsets": [
+				-24,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note"
+		},
+		{
+			"offsets": [
+				-15,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		},
+		{
+			"offsets": [
+				-24,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
+		},
+		{
+			"offsets": [
+				3,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "GF FEAR"
+		},
+		{
+			"offsets": [
+				26,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "duck",
+			"loop": false,
+			"name": "GF Duck"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_assets2",
+	"position": [
+		80,
+		130
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
