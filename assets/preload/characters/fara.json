@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 44,
+			"name": "fara idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 44,
+			"name": "fara left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 44,
+			"name": "fara down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 44,
+			"name": "fara up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 44,
+			"name": "fara right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fara",
+	"position": [
+		-100,
+		-190
+	],
+	"healthicon": "fara",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		0,
+		21
+	],
+	"camera_position": [
+		-10,
+		110
+	],
+	"sing_duration": 6.2,
+	"scale": 0.8
+}
