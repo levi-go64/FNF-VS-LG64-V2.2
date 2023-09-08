@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('senbehouse', 'senbehouse', -600, -300);
+	makeLuaSprite('senbehouse', 'senbehouse', -500, -300);
 	setLuaSpriteScrollFactor('stageback', 0.9, 0.9);
 	
 	makeLuaSprite('no', 'no', -650, 600);
