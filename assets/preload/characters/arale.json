@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "arale idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "arale left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "arale down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "arale up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "arale right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/arale",
+	"position": [
+		-180,
+		-40
+	],
+	"healthicon": "arale",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		117,
+		131
+	],
+	"camera_position": [
+		0,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
