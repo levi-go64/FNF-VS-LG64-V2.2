@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="arale.png">
+<SubTexture name="arale idle0000" x="0" y="0" width="590" height="1190" frameX="-290" frameY="-26" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale idle0001" x="2606" y="1177" width="615" height="1174" frameX="-293" frameY="-42" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale idle0002" x="1977" y="1190" width="617" height="1171" frameX="-299" frameY="-45" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale idle0003" x="1977" y="1190" width="617" height="1171" frameX="-299" frameY="-45" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale right0000" x="1980" y="0" width="626" height="1182" frameX="-259" frameY="-34" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale right0001" x="1337" y="1190" width="640" height="1177" frameX="-266" frameY="-40" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale right0002" x="1980" y="0" width="626" height="1182" frameX="-259" frameY="-34" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale left 0000" x="590" y="0" width="734" height="1183" frameX="-290" frameY="-33" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale left 0001" x="0" y="1190" width="743" height="1181" frameX="-280" frameY="-35" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale left 0002" x="590" y="0" width="734" height="1183" frameX="-290" frameY="-33" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale up0000" x="2606" y="0" width="647" height="1177" frameX="-290" frameY="-39" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale up0001" x="1324" y="0" width="656" height="1183" frameX="-285" frameY="-34" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale up0002" x="2606" y="0" width="647" height="1177" frameX="-290" frameY="-39" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale down0000" x="743" y="1190" width="594" height="1181" frameX="-290" frameY="-35" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale down0001" x="3253" y="0" width="615" height="1170" frameX="-294" frameY="-46" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="arale down0002" x="743" y="1190" width="594" height="1181" frameX="-290" frameY="-35" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>
