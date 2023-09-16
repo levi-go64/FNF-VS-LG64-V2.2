@@ -10,7 +10,7 @@ local del2 = 0;
 function onUpdate()
     if followchars == true then
         if mustHitSection == false then
-            setProperty('defaultCamZoom',0.8)
+            setProperty('defaultCamZoom',1.0)
             if getProperty('dad.animation.curAnim.name') == 'singLEFT' then
                 triggerEvent('Camera Follow Pos',xx-ofs,yy)
             end
