@@ -1,11 +1,11 @@
 {
 	"songs": [
 		[
-			"where-my-eyes",
+			"wheres-my-eyes",
 			"iza",
 			[
-				246,
-				140,
+				255,
+				255,
 				0
 			]
 		],
@@ -13,8 +13,17 @@
 			"taimupingas",
 			"iza",
 			[
-				246,
-				140,
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"revenge",
+			"iza",
+			[
+				255,
+				255,
 				0
 			]
 		]
@@ -28,14 +37,14 @@
 		"",
 		""
 	],
-	"storyName": "vs eyegone reboot",
-	"weekName": "eyegone",
+	"storyName": "EYEGONE REBOOT",
+	"weekName": "EYEGONE REBOOT",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"hideStoryMode": false,
-	"weekBefore": "lgsixtyfour",
+	"weekBefore": "jasminu",
 	"startUnlocked": true
 }
