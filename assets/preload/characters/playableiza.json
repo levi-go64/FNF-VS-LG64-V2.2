@@ -3,219 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
+				0,
 				0
 			],
 			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
+			"fps": 54,
+			"name": "iza idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				5,
-				-6
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-50
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-29,
-				27
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-48,
-				-7
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				7,
-				19
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-15,
-				-19
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-36,
-				27
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "BF NOTE UP MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-44,
-				22
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				5
-			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-4,
+				0,
 				0
 			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
+			"anim": "singDOWN",
+			"fps": 54,
+			"name": "iza down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				11
+				0,
+				0
 			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "BF dies",
+			"anim": "singUP",
+			"fps": 54,
+			"name": "iza up",
 			"indices": []
 		},
 		{
-			"loop": true,
 			"offsets": [
-				37,
-				5
+				0,
+				0
 			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF Dead Loop",
-			"indices": []
-		},
-		{
+			"indices": [],
+			"fps": 54,
+			"anim": "singLEFT",
 			"loop": false,
-			"offsets": [
-				37,
-				69
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "BF Dead confirm",
-			"indices": []
+			"name": "iza right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-10,
-				-16
+				0,
+				0
 			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
+			"indices": [],
+			"fps": 54,
+			"anim": "singRIGHT",
 			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				-40
-			],
-			"anim": "pre-attack",
-			"fps": 24,
-			"name": "bf pre attack",
-			"indices": []
+			"name": "iza left"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/playableiza",
 	"position": [
-		0,
-		350
+		-130,
+		-170
 	],
-	"healthicon": "playableiza",
-	"flip_x": true,
+	"healthicon": "iza",
+	"flip_x": false,
 	"healthbar_colors": [
-		249,
-		176,
+		255,
+		175,
 		0
 	],
 	"camera_position": [
-		0,
-		0
+		20,
+		210
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"sing_duration": 6.1,
+	"scale": 0.8
 }
