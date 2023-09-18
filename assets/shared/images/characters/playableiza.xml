@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="New_BF_Dekar.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN0000" x="0" y="0" width="374" height="357"/>
+	<SubTexture name="BF NOTE LEFT0000" x="393" y="0" width="383" height="405"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="798" y="7" width="410" height="404"/>
+	<SubTexture name="BF NOTE UP0000" x="6" y="401" width="369" height="446"/>
+	<SubTexture name="BF idle dance0000" x="432" y="437" width="409" height="412"/>
+</TextureAtlas>
