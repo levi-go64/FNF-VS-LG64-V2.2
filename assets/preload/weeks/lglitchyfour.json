@@ -13,7 +13,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "glitchy",
-	"difficulties": "Glitchy",
+	"difficulties": "Glitchy, oldremake",
 	"weekCharacters": [
 		"",
 		"",
@@ -26,7 +26,7 @@
 		113,
 		253
 	],
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"weekBefore": "lgsixtyfour",
 	"startUnlocked": true
 }
